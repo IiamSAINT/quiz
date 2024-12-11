@@ -78,6 +78,7 @@ guesses = []
 score = 0
 itt_index = 0
 
+name = input("Please Enter your name: ").upper()
 for question in questions:
     print("------------------------------------------------------")
     print(question)
@@ -99,7 +100,7 @@ print("                 SCORE                       ")
 print("---------------------------------------------")
 
 print(f" CORRECT ANSWERS : {Answers}")
-print(f" YOUR GUESSES: {guesses}")
+print(f" YOUR ANSWERS: {guesses}")
 T_score = int((score / len(Answers)) * 100)
-print(f"Your Total Score is {T_score}%")
+print(f"{name}, your Total Score is {T_score}%")
 
