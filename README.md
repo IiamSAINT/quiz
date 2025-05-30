@@ -12,14 +12,19 @@ git clone https://github.com/yourusername/mini_quiz.git
 cd mini_quiz
 python mini_quiz.py
 
+```
 
 Enter your name, answer the questions, and see your score!
 
 ✅ What is Used ...
+
 User input/output
-
 If/else logic
-
 Loops
-
 Lists & tuples
+
+
+
+
+
+
