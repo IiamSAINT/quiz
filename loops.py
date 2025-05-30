@@ -1,22 +1,3 @@
-# #FOR LOOPS
-# # range would show the scope of your count
-# count = 0
-# for x in range(1,11, 2):
-#     count += x
-#
-# print(count)
-# # You can iterate over a string also
-# # Continue keyword to skip over an iteration
-#
-# word = "I Love You"
-#
-# for x in range(101) :
-#     print(word)
-from mimetypes import guess_type
-
-# dir
-# help function
-
 
 # RECCURSION
 #   quiz game
